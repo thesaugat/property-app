@@ -1,50 +1,17 @@
-# Welcome to your Expo app 👋
+###Suburb Scout — NSW Property Insights (React Native)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+One map-first mobile app for NSW buyers and renters to compare suburbs on price trends, safety, schools, commute, and development activity—with smart alerts for nearby Development Applications (DAs).
 
-## Get started
+##Why this app?
 
-1. Install dependencies
+Finding a place to live in NSW means piecing together info from dozens of sites: recent sales, crime trends, school zones, commute, flood/elevation, and what’s being built nearby. Suburb Scout brings the high-signal indicators into a single, fast, mobile-first experience you can actually use during inspections.
 
-   ```bash
-   npm install
-   ```
+##Core Value
 
-2. Start the app
+Compare 3 suburbs in seconds using consistent, trusted indicators.
 
-   ```bash
-   npx expo start
-   ```
+Map overlays that matter (school catchments, elevation, DA activity).
 
-In the output, you'll find options to open the app in a
+Actionable alerts (e.g., “New DA within 500m of your saved address”).
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Plain-English explainers for non-experts.
