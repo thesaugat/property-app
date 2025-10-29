@@ -1,7 +1,7 @@
 # Suburb Scout — NSW Property Insights (React Native)
 
 
-<img src="screenshot.png" alt="drawing" width="200"/>
+<img src="screenshot.png" alt="drawing" width="450"/>
 
 One map-first mobile app for NSW buyers and renters to compare suburbs on price trends, safety, schools, commute, and development activity—with smart alerts for nearby Development Applications (DAs).
 
