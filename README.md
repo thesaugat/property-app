@@ -1,17 +1,65 @@
-##Suburb Scout — NSW Property Insights (React Native)
+# Suburb Scout — NSW Property Insights (React Native)
+
+![Suburb Scout App Screenshot](screenshot.png)
 
 One map-first mobile app for NSW buyers and renters to compare suburbs on price trends, safety, schools, commute, and development activity—with smart alerts for nearby Development Applications (DAs).
 
-##Why this app?
+## 🎯 Why This App?
+Finding a place to live in NSW currently means piecing together information from dozens of different sites:
 
-Finding a place to live in NSW means piecing together info from dozens of sites: recent sales, crime trends, school zones, commute, flood/elevation, and what’s being built nearby. Suburb Scout brings the high-signal indicators into a single, fast, mobile-first experience you can actually use during inspections.
+📊 Recent sales data and price trends
 
-##Core Value
+🚨 Crime statistics and safety trends
 
-Compare 3 suburbs in seconds using consistent, trusted indicators.
+🏫 School zones and performance data
 
-Map overlays that matter (school catchments, elevation, DA activity).
+🚆 Commute times and transport options
 
-Actionable alerts (e.g., “New DA within 500m of your saved address”).
+🏞️ Flood zones and elevation data
 
-Plain-English explainers for non-experts.
+🏗️ Development applications and construction activity
+
+** Suburb Scout brings all these high-signal indicators into a single, fast, mobile-first experience you can actually use during property inspections. ** 
+
+
+## ✨ Core Value Proposition
+Compare Suburbs in Seconds
+Side-by-side comparison of up to 3 suburbs using consistent, trusted indicators
+
+Quick scoring system for easy assessment
+
+Historical trend data for informed decision-making
+
+### 🔔 **Smart DA Alerts**
+- **"New DA within 500m of your saved property"**
+- **"Major development approved in Blacktown"**
+- **"Heritage restriction lifted in Glebe"**
+
+### 📊 **Trusted Indicators**
+- **Price Data** - CoreLogic, NSW Valuer General
+- **School Performance** - My School, ACARA
+- **Crime Statistics** - BOCSAR, NSW Police
+- **Development Applications** - NSW Planning Portal
+- **Flood & Elevation** - NSW Spatial Services
+
+## 🎯 Use Cases
+
+### 🏠 **For Buyers**
+> "Compared 3 suburbs during an open house, discovered Surry Hills had 40% fewer development applications than Redfern - less future construction disruption"
+
+### 🏡 **For Renters**
+> "Set up DA alerts for my current area, got notified about a new 200-unit complex being approved - know my rent might stabilize due to increased supply"
+
+### 👨‍💼 **For Investors**
+> "Overlayed school zones with price growth data, identified undervalued areas with top-tier school catchments"
+
+
+## 🛠️ Technical Stack
+
+```yaml
+Frontend: React Native + TypeScript
+Maps: Mapbox GL Native
+Backend: Node.js + PostgreSQL
+Notifications: Firebase Cloud Messaging
+Data: NSW Government APIs, Custom ETL Pipelines
+Hosting: AWS EC2 + RDS (Plan)

@@ -33,6 +33,13 @@ export default function TabLayout() {
           tabBarIcon: () => ({ sfSymbol: "paperplane" }),
         }}
       />
+      <Tabs.Screen
+        name="profile"
+        options={{
+          title: 'Profile',
+          tabBarIcon: () => ({ sfSymbol: "person" }),
+        }}
+      />
 
     </Tabs>
   );
